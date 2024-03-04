@@ -15,3 +15,6 @@ Create a model and train it with the train_dataset. Run the final cell in this n
 To pass the challenge, model.evaluate must return a Mean Absolute Error of under 3500. This means it predicts health care costs correctly within $3500.
 
 The final cell will also predict expenses using the test_dataset and graph the results.
+
+[![Certificate](Machine Learning with Python -Freecodecamp.PNG)](https://freecodecamp.org/certification/HAQ-NAWAZ-MALIK/machine-learning-with-python-v7)
+![Certificate!](MachineLearningwithPython-Freecodecamp.PNG)
